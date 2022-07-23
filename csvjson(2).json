@@ -1,0 +1,74 @@
+[
+  {
+    "Fruit/Veggie": "Apple",
+    "Price": 2,
+    "Ehealth": 5,
+    "Estamina": "0%",
+    "Ebody_temp": 0,
+    "Eattack_power": 0
+  },
+  {
+    "Fruit/Veggie": "Orange",
+    "Price": 4,
+    "Ehealth": 8,
+    "Estamina": "20%",
+    "Ebody_temp": 0,
+    "Eattack_power": 0
+  },
+  {
+    "Fruit/Veggie": "Papaya",
+    "Price": 10,
+    "Ehealth": 20,
+    "Estamina": "15%",
+    "Ebody_temp": -1,
+    "Eattack_power": 0
+  },
+  {
+    "Fruit/Veggie": "Dragon Fruit",
+    "Price": 25,
+    "Ehealth": 15,
+    "Estamina": "15%",
+    "Ebody_temp": 0,
+    "Eattack_power": 5
+  },
+  {
+    "Fruit/Veggie": "Spicy Pepper",
+    "Price": 9,
+    "Ehealth": 2,
+    "Estamina": "0%",
+    "Ebody_temp": 5,
+    "Eattack_power": 0
+  },
+  {
+    "Fruit/Veggie": "Spoiled Tomato",
+    "Price": 1,
+    "Ehealth": -10,
+    "Estamina": "5%",
+    "Ebody_temp": 0,
+    "Eattack_power": 0
+  },
+  {
+    "Fruit/Veggie": "Pineapple",
+    "Price": 15,
+    "Ehealth": 12,
+    "Estamina": "10%",
+    "Ebody_temp": -2,
+    "Eattack_power": 0
+  },
+  {
+    "Fruit/Veggie": "Celery",
+    "Price": 7,
+    "Ehealth": 5,
+    "Estamina": "50%",
+    "Ebody_temp": 0,
+    "Eattack_power": 0
+  },
+  {
+    "Fruit/Veggie": "Rainbow Fruit",
+    "Price": 30,
+    "Ehealth": 10,
+    "Estamina": "20%",
+    "Ebody_temp": 0,
+    "Eattack_power": 10
+  }
+]
